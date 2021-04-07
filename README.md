@@ -1,6 +1,6 @@
 # Ian Wang
 
-_Sophomore at University of Maryland, College Park_ <br>
+_Potomac, Maryland, 20854_ <br>
 
 [Email](mailto:ianwangkls@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ianwwang/) / [GitHub](https://github.com/bunnian/) / Phone: 301-520-4341 
 
