@@ -10,12 +10,15 @@ Efficient and diligent sophomore majoring in Neuroscience looking for an interns
 
 ## Education
 
-**University of Maryland, College Park** _(August 2020 - Present)_ <br>
-**Bachelor of Science in Neuroscience**  _(Expected May 2023)_ <br>
+**University of Maryland, College Park** _(Expected May 2023_ <br>
+ - **Bachelor of Science in Neuroscience**
  - **GPA:** 3.6/4.0
- - **Relevant Completed Courses:** Psychology, Neuroscience, Organic Chemistry + Lab, Physics (Mechanics + E&M), Intro Biology/Genetics
  - **Clubs & Organizations:** UMCP TASA 
 
+## Relevant Coursework
+
+ - Psychology, Neuroscience, Organic Chemistry + Lab, Physics (Mechanics + E&M), Intro Biology/Genetics
+ 
 ## Previous Experience
 
 **Intern, Plant Sciences Lab at UMCP** _(2018 Summer)_ <br>
