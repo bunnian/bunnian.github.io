@@ -1,38 +1,32 @@
-## Welcome to GitHub Pages
+# Ian Wang
 
-You can use the [editor on GitHub](https://github.com/bunnian/bunnian.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[Email](mailto:ianwangkls@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ianwwang/) / [GitHub](https://github.com/bunnian/) / Phone: 301-520-4341 / Potomac, MD, 20854 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Objective
 
-```markdown
-Syntax highlighted code block
+Efficient and diligent sophomore majoring in Neuroscience looking for an internship to contribute my unique skills to a lab. 
 
-# Header 1
-## Header 2
-### Header 3
+## Education
 
-- Bulleted
-- List
+**University of Maryland, College Park** _(Expected May 2023_ <br>
+ - **Bachelor of Science in Neuroscience**
+ - **GPA:** 3.6/4.0
+ - **Clubs & Organizations:** UMCP TASA 
 
-1. Numbered
-2. List
+## Relevant Coursework
 
-**Bold** and _Italic_ and `Code` text
+ - Psychology, Neuroscience, Organic Chemistry + Lab, Physics (Mechanics + E&M), Intro Biology/Genetics
+ 
+## Previous Experience
 
-[Link](url) and ![Image](src)
-```
+**Intern, Plant Sciences Lab at UMCP** _(2018 Summer)_ <br>
+ - Responsible for assitance in performing experiments on arabidopsis to determine gene effects on survivability in different climates.
+ - Became proficient in pipetting, plating, as well as DNA extraction.
+ 
+## Skills
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bunnian/bunnian.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ - **Computer Skills:** Competent with HTML, Java, and Python
+ - **Language Skills:** Fluent in English, and Spanish
 
