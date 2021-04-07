@@ -22,8 +22,8 @@ Efficient and diligent sophomore majoring in Neuroscience looking for an interns
 ## Previous Experience
 
 **Intern, Plant Sciences Lab at UMCP** _(2018 Summer)_ <br>
- - Responsible for assitance in performing experiments on arabidopsis to determine gene effects on survivability in different climates.
- - Became proficient in pipetting, plating, as well as DNA extraction.
+ - Responsible for assistance in performing experiments on arabidopsis plants to determine gene effects on survivability in different climates.
+ - Became proficient in data entry, pipetting, plating, as well as DNA extraction.
  
 ## Skills
 
