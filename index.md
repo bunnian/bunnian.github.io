@@ -10,7 +10,7 @@ Efficient and diligent sophomore majoring in Neuroscience looking for an interns
 
 ## Education
 
-**University of Maryland, College Park** _(Expected May 2023_ <br>
+**University of Maryland, College Park** _(Expected May 2023)_ <br>
  - **Bachelor of Science in Neuroscience**
  - **GPA:** 3.6/4.0
  - **Clubs & Organizations:** UMCP TASA 
