@@ -28,5 +28,5 @@ Efficient and diligent sophomore majoring in Neuroscience looking for an interns
 ## Skills
 
  - **Computer Skills:** Competent with HTML, Java, and Python
- - **Language Skills:** Fluent in English, and Spanish
+ - **Language Skills:** Fluent in English, and Chinese
 
